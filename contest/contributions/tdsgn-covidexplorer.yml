@@ -1,0 +1,16 @@
+# Contribution's title, author, abstract
+title: Global Covid-19 Explorer by DataHive # title case
+author: DataHive # comma-separated
+abstract: |
+  Global Covid-19 Explorer interactive Shiny dashboard with extensive and novel functionality to compare countries' confirmed 
+  and recovered cases and deaths
+
+# Short name to be used in the website Gallery menu (can be the same as title)
+menu_entry: COVID19-Explorer
+# URL of the public source code repository
+repository: https://github.com/tdesmedt-tdsgn/Covid-Explorer
+# Type of contribution and how it can be featured as gallery content
+# Keep only the type and content relevant to your contribution
+# For a Shiny app, provide its URL:
+type: shiny
+content: https://datahive.shinyapps.io/Covid19-Explorer/ # e.g. my-app on shinyapps.io
